@@ -12,8 +12,8 @@ Each section includes real-world inspired scenarios, investigations, and securit
 ## 📂 Sections
 
 - Incident Response cases: 
-- Detection : 
-- Network Forensics: (https://github.com/EmnaAllegui/Network-forensics)
+- Detection :
+- [Network Forensics](https://github.com/EmnaAllegui/Network-forensics)
 
 
 <!--
