@@ -5,7 +5,7 @@ Welcome to my cybersecurity portfolio.
 
 This repository contains practical projects and hands-on labs across different domains of cybersecurity, including Incident Response, Detection , Network Forensics.
 
-Each section includes real-world inspired scenarios, investigations, and security analysis work as I develop my skills toward becoming a SOC / Cybersecurity Analyst.
+Each section includes real-world scenarios, investigations, and security analysis work as I develop my skills toward becoming a SOC / Cybersecurity Analyst.
 
 ---
 
