@@ -11,10 +11,9 @@ Each section includes real-world inspired scenarios, investigations, and securit
 
 ## 📂 Sections
 
-- Incident Response cases: investigation and handling of security incidents
-- Detection : detection rules, alerts, and analysis
-- Network Forensics: packet analysis and traffic investigation
-  [Network Forensics Projects](https://github.com/EmnaAllegui/Network-forensics))
+- Incident Response cases: 
+- Detection : 
+- Network Forensics: (https://github.com/EmnaAllegui/Network-forensics)
 
 
 <!--
