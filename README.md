@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emna! <br/><a href="https://github.com/joshmadakor1">Cybersecurity Portfolio – Emna Allegui</a></h1>
+<h1>Hi, I'm Emna! <br/><a href="https://github.com/EmnaAllegui">Cybersecurity Portfolio – Emna Allegui</a></h1>
 
 
 Welcome to my cybersecurity portfolio.
@@ -14,7 +14,7 @@ Each section includes real-world inspired scenarios, investigations, and securit
 - Incident Response cases: investigation and handling of security incidents
 - Detection : detection rules, alerts, and analysis
 - Network Forensics: packet analysis and traffic investigation
-  [Network Forensics Projects](https://github.com/your-username/network-forensics-projects)
+  [Network Forensics Projects](https://github.com/EmnaAllegui/Network-forensics))
 
 
 <!--
