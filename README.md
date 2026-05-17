@@ -9,11 +9,12 @@ Each section includes real-world scenarios, investigations, and security analysi
 
 ---
 
-## 📂 Sections
+<h3>Incident Response cases</h3>
+<h3>Detection</h3>
+<h3>Network forensics</h3>
+- <b>Full incident investigation (forensics + threat hunting)</b>
+  - [Data exfiltration + internal compromise](https://github.com/joshmadakor1/DataExfiltration&InternalCompromise)
 
-- [Incident Response cases](https://github.com/EmnaAllegui/Incident-Response-cases)
-- [Detection](https://github.com/EmnaAllegui/Detection)
-- [Network Forensics](https://github.com/EmnaAllegui/Network-forensics)
 
 
 <!--
