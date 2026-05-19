@@ -10,9 +10,10 @@ Each section includes real-world scenarios, investigations, and security analysi
 ---
 
 <h3>Incident Response cases</h3>
-<h3>Detection</h3>
+<h3>Email security</h3>
+<b>Real-world email security assessment </b><br>
 <h3>Network forensics</h3>
-- <b>Full incident investigation (forensics + threat hunting)</b><br>
+<b>Full incident investigation (forensics + threat hunting)</b><br>
   - [Data Exfiltration & Internal Compromise](https://github.com/EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise)
 
 
