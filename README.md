@@ -11,6 +11,7 @@ Each section includes real-world scenarios, investigations, and analysis work as
 <h3>Vulnerability assessment</h3>
 
 [Enterprise-Level Vulnerability Assessment Threat Analysis](https://github.com/EmnaAllegui/Enterprise-Level-Vulnerability-Assessment-Threat-Analysis-Report)
+
 <h3>Incident Response cases</h3>
 <h3>Email security</h3>
 
