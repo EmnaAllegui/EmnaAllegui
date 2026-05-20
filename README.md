@@ -13,6 +13,9 @@ Each section includes real-world scenarios, investigations, and analysis work as
 [Enterprise-Level Vulnerability Assessment Threat Analysis](https://github.com/EmnaAllegui/Enterprise-Level-Vulnerability-Assessment-Threat-Analysis-Report)
 
 <h3>Incident Response cases</h3>
+
+[Detection Bypass & Defensive Tuning](https://github.com/EmnaAllegui/Detection-bypass-and-defense-tuning-report-Integrating-Suricata-with-Splunk)
+
 <h3>Email security</h3>
 
 [Real-world email security assessment](https://github.com/EmnaAllegui/Real-World-Email-Security-Assessment-Report)
