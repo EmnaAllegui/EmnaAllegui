@@ -8,7 +8,9 @@ This repository contains practical projects and hands-on labs from my cybersecur
 Each section includes real-world scenarios, investigations, and analysis work as I continue developing my skills toward a cybersecurity role.
 
 ---
+<h3>Vulnerability assessment</h3>
 
+[Enterprise-Level Vulnerability Assessment Threat Analysis](https://github.com/EmnaAllegui/Enterprise-Level-Vulnerability-Assessment-Threat-Analysis-Report)
 <h3>Incident Response cases</h3>
 <h3>Email security</h3>
 
