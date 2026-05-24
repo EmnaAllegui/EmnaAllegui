@@ -8,6 +8,10 @@ This repository contains practical projects and hands-on labs from my cybersecur
 Each section includes real-world scenarios, investigations, and analysis work as I continue developing my skills toward a cybersecurity role.
 
 ---
+<h3>DNS Infrastructure Security Assessment</h3>
+
+[Vulnerability Analysis and Attack Surface Mapping](https://github.com/EmnaAllegui/DNS-Infrastructure-Security-Assessment-and-Attack-Surface-Enumeration)
+
 <h3>Web Shell Detection using File Integrity Monitoring (FIM) with OSSEC</h3>
 
 [Attack simulation and forensic analysis using OSSEC Host Intrusion Detection System (HIDS)](https://github.com/EmnaAllegui/Attack-simulation-and-forensic-analysis-using-OSSEC-Host-Intrusion-Detection-System)
