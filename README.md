@@ -8,6 +8,10 @@ This repository contains practical projects and hands-on labs from my cybersecur
 Each section includes real-world scenarios, investigations, and analysis work as I continue developing my skills toward a cybersecurity role.
 
 ---
+<h3>Web Shell Detection using File Integrity Monitoring (FIM) with OSSEC</h3>
+
+[Attack simulation and forensic analysis using OSSEC Host Intrusion Detection System (HIDS)](https://github.com/EmnaAllegui/Attack-simulation-and-forensic-analysis-using-OSSEC-Host-Intrusion-Detection-System)
+
 <h3>Vulnerability assessment</h3>
 
 [Enterprise-Level Vulnerability Assessment Threat Analysis](https://github.com/EmnaAllegui/Enterprise-Level-Vulnerability-Assessment-Threat-Analysis-Report)
