@@ -22,8 +22,7 @@ Each section includes real-world scenarios, investigations, and analysis work as
 
 <h3>Incident Response cases</h3>
 
-[Koi Loader detection and analysis using Suricata](https://github.com/EmnaAllegui/Koi-Loader-detection-and-analysis-using-Suricata)
-
+[Koi Loader detection and analysis using Suricata](https://github.com/EmnaAllegui/Koi-Loader-detection-and-analysis-using-Suricata)<br>
 [Detection Bypass & Defensive Tuning](https://github.com/EmnaAllegui/Detection-bypass-and-defense-tuning-report-Integrating-Suricata-with-Splunk-)
 
 <h3>Email security</h3>
