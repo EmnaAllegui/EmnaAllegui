@@ -21,7 +21,7 @@ Each section includes real-world scenarios, investigations, and analysis work as
 [Enterprise-Level Vulnerability Assessment Threat Analysis](https://github.com/EmnaAllegui/Enterprise-Level-Vulnerability-Assessment-Threat-Analysis-Report)
 
 <h3>Incident Response cases</h3>
-
+[Koi Loader detection and analysis using Suricata](https://github.com/EmnaAllegui/Koi-Loader-detection-and-analysis-using-Suricata)
 [Detection Bypass & Defensive Tuning](https://github.com/EmnaAllegui/Detection-bypass-and-defense-tuning-report-Integrating-Suricata-with-Splunk-)
 
 <h3>Email security</h3>
@@ -33,6 +33,7 @@ Each section includes real-world scenarios, investigations, and analysis work as
 <b>Full incident investigation (forensics + threat hunting)</b><br>
 
   [Data Exfiltration & Internal Compromise](https://github.com/EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise)
+  
 
 
 <!--
