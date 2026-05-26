@@ -25,7 +25,8 @@ Each section includes real-world scenarios, investigations, and analysis work as
 [STARRAT detection and analysis using Suricata](https://github.com/EmnaAllegui/STARRAT-detection-and-analysis-using-Suricata-)<br>
 [Koi Loader detection and analysis using Suricata](https://github.com/EmnaAllegui/Koi-Loader-detection-and-analysis-using-Suricata)<br>
 [C2 beacon detection using RITA](https://github.com/EmnaAllegui/C2-beacon-detection-using-RITA-)<br>
-[Detection Bypass & Defensive Tuning](https://github.com/EmnaAllegui/Detection-bypass-and-defense-tuning-report-Integrating-Suricata-with-Splunk-)
+[Detection Bypass & Defensive Tuning](https://github.com/EmnaAllegui/Detection-bypass-and-defense-tuning-report-Integrating-Suricata-with-Splunk-)<br>
+[In-memory Mimikatz execution and powershell obfuscation detection using sysmon](https://github.com/EmnaAllegui/In-memory-Mimikatz-execution-and-powershell-obfuscation-detection-using-Sysmon)
 
 <h3>Email security</h3>
 
