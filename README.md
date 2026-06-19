@@ -33,6 +33,10 @@ Each section includes real-world scenarios, investigations, and analysis work as
 [Real-world email security assessment](https://github.com/EmnaAllegui/Real-World-Email-Security-Assessment-Report)<br>
 [Full malicious URL investigation and threat correlation](https://github.com/EmnaAllegui/Full-malicious-URL-investigation-and-threat-correlation-)
 
+<h3>threat hunting</h3>
+
+  [Advanced threat hunting and malware process discovery](https://github.com/Emna928/Advanced-threat-hunting-and-malware-process-discovery-)<br>
+
 <h3>Network forensics</h3>
 <b>Full incident investigation (forensics + threat hunting)</b><br>
 
