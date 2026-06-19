@@ -38,16 +38,12 @@ Each section includes real-world scenarios, investigations, and analysis work as
   [Advanced threat hunting and malware process discovery](https://github.com/Emna928/Advanced-threat-hunting-and-malware-process-discovery-)<br>
 
 <h3>Network forensics</h3>
-<b>Full incident investigation (forensics + threat hunting)</b><br>
 
-  [Data Exfiltration & Internal Compromise](https://github.com/EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise)<br>
+  [Full incident investigation: Data Exfiltration & Internal Compromise](https://github.com/EmnaAllegui/Full-incident-analysis-of-data-exfiltration-and-internal-compromise)<br>
   
-  
-<b>Agent tesla malware analysis</b><br>
-   [Agent Tesla Malware analysis FTP data exfiltration](https://github.com/EmnaAllegui/Agent-Tesla-Malware-analysis-FTP-data-exfiltration-)<br> 
+  [Agent Tesla Malware analysis FTP data exfiltration](https://github.com/EmnaAllegui/Agent-Tesla-Malware-analysis-FTP-data-exfiltration-)<br> 
 
-<b>Retail breach investigation</b><br>
-   [Shopsphere retail breach investigation](https://github.com/EmnaAllegui/Shopsphere-retail-breach-investigation)
+  [Shopsphere retail breach investigation](https://github.com/EmnaAllegui/Shopsphere-retail-breach-investigation)
 <!--
 **EmnaAllegui/EmnaAllegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
