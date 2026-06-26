@@ -3,9 +3,8 @@
 
 Welcome to my cybersecurity portfolio.
 
-This repository contains practical projects and hands-on labs from my cybersecurity training including Incident Response, Detection , Network Forensics.
+This repository contains practical projects and hands-on labs from my cybersecurity training.
 
-Each section includes real-world scenarios, investigations, and analysis work as I continue developing my skills toward a cybersecurity role.
 
 ---
 <h3>DNS Infrastructure Security Assessment</h3>
