@@ -42,9 +42,6 @@ This repository contains practical projects and hands-on labs from my cybersecur
   [Agent Tesla Malware analysis FTP data exfiltration](https://github.com/EmnaAllegui/Agent-Tesla-Malware-analysis-FTP-data-exfiltration-)<br> 
   [Shopsphere retail breach investigation](https://github.com/EmnaAllegui/Shopsphere-retail-breach-investigation)
 
-<br> 
-<br>
-
 <h3>Memory forensics</h3>
 
   [APT28 Blue Delta Emulation](https://github.com/Emna928/APT28-Blue-delta-emulation)
