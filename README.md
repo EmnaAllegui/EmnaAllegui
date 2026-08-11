@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emna! <br/><a href="https://github.com/EmnaAllegui">Cybersecurity Portfolio – Emna Allegui</a></h1>
+<h1><br/><a href="https://github.com/EmnaAllegui">Cybersecurity Portfolio – Emna Allegui</a></h1>
 
 
 Welcome to my cybersecurity portfolio.
@@ -44,7 +44,7 @@ This repository contains practical projects and hands-on labs from my cybersecur
 
 <h3>Memory forensics</h3>
 
-  [APT28 Blue Delta Emulation](https://github.com/Emna928/APT28-Blue-delta-emulation)
+  [APT28 Blue Delta Emulation and detection](https://github.com/Emna928/APT28-Blue-delta-emulation)
 <!--
 **EmnaAllegui/EmnaAllegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
