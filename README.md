@@ -45,6 +45,10 @@ This repository contains practical projects and hands-on labs from my cybersecur
 <h3>Memory forensics</h3>
 
   [APT28 Blue Delta Emulation and detection](https://github.com/Emna928/APT28-Blue-delta-emulation)
+
+  <h3>Disk forensics</h3>
+
+  [Adversary emulation and detection:Operation Constantine](https://github.com/Emna928/Adversary-Emulation-and-detection)
 <!--
 **EmnaAllegui/EmnaAllegui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
