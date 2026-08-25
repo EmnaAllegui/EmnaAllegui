@@ -44,7 +44,7 @@ This repository contains practical projects and hands-on labs from my cybersecur
 
 <h3>Memory forensics</h3>
 
-  [APT28 Blue Delta Emulation and detection](https://github.com/Emna928/APT28-Blue-delta-emulation)
+  [APT28 Blue Delta Emulation and detection Operation constantine](https://github.com/Emna928/APT28-Blue-delta-emulation)
 
   <h3>Disk forensics</h3>
 
